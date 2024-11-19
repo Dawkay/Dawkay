@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dawkay
 - 👀 I’m interested in Cloud Computing 
 - 🌱 I’m currently learning AWS Cloud Practitioner 
-- 💞️ I’m looking to collaborate on Cloup COmputing 
+- 💞️ I’m looking to collaborate on Cloup Computing 
 - 📫 How to reach me dawoduoluwakayode@aol.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Fun loving, Calm dude
